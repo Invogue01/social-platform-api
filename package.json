@@ -1,0 +1,33 @@
+{
+  "name": "social-platform-api",
+  "version": "1.0.0",
+  "description": "social network api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Invogue01/social-platform-api.git"
+  },
+  "keywords": [
+    "mongoDB",
+    "socail",
+    "platfrom",
+    "API"
+  ],
+  "author": "Andrea Mac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Invogue01/social-platform-api/issues"
+  },
+  "homepage": "https://github.com/Invogue01/social-platform-api#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "helmet": "^5.0.2",
+    "mongoose": "^6.3.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16"
+  }
+}
