@@ -32,9 +32,7 @@ Make new Friends and keep up with their social lives
 ![Code Snippet One](/media/code2.png)
 
 Video Link
-[]()
-
-<iframe src="https://drive.google.com/file/d/117KwKn-ZsaBuT1tXb1RgGp1GpuSIQLRd/preview" width="640" height="480"></iframe>
+[https://drive.google.com/file/d/1O1YqLz8xyG5KzCSOsCTZQiyb-j99raV4/view](https://drive.google.com/file/d/1O1YqLz8xyG5KzCSOsCTZQiyb-j99raV4/view)
 
 ---
 
