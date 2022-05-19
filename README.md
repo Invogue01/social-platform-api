@@ -31,8 +31,10 @@ Make new Friends and keep up with their social lives
 ![Code Snippet One](/media/code1.png)
 ![Code Snippet One](/media/code2.png)
 
-Video Link
-[https://drive.google.com/file/d/1O1YqLz8xyG5KzCSOsCTZQiyb-j99raV4/view](https://drive.google.com/file/d/1O1YqLz8xyG5KzCSOsCTZQiyb-j99raV4/view)
+Video Links
+1st[https://drive.google.com/file/d/1O1YqLz8xyG5KzCSOsCTZQiyb-j99raV4/view](https://drive.google.com/file/d/1O1YqLz8xyG5KzCSOsCTZQiyb-j99raV4/view)
+2nd [https://drive.google.com/file/d/1dMfmr4zQl8h7GI2niDO4_jstg1lxphmZ/view](https://drive.google.com/file/d/1dMfmr4zQl8h7GI2niDO4_jstg1lxphmZ/view)
+3rd [https://drive.google.com/file/d/117KwKn-ZsaBuT1tXb1RgGp1GpuSIQLRd/view](https://drive.google.com/file/d/117KwKn-ZsaBuT1tXb1RgGp1GpuSIQLRd/view)
 
 ---
 
