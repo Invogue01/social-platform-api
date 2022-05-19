@@ -21,7 +21,7 @@ router.put("/:id", async (req, res) => {
       return res.status(500).json(err);
     }
   } else {
-    return res.status(403).json("Update on your account page");
+    return res.status(403).json("Only your own account can be updated");
   }
 });
 //delete user

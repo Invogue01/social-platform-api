@@ -39,7 +39,7 @@ Video Link
 ## Installation:
 
 - npm i
-- npm run
+- npm run dev
 
 To clone the repo:
 

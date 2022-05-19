@@ -8,26 +8,25 @@ router.post("/", async (req, res) => {
   try {
     const savedPost = await newPost.save();
     res.status(200).json(savedPost);
-  } catch {
-    err;
+  } catch (err) {
+    res.status(500).json(err);
   }
-  res.status(500).json(err);
 });
 
 //update post
 router.put("/:id", async (req, res) => {
   try {
     const post = await Post.findById(req.params.id);
+    console.log(post);
     if (post.userId === req.body.userId) {
       await post.updateOne({ $set: req.body });
       res.status(200).json("Post Updated");
     } else {
       res.status(403).json("you can update only your own posts");
     }
-  } catch {
-    err;
+  } catch (err) {
+    res.status(500).json("Need post ID");
   }
-  res.status(500).json(err);
 });
 
 //delete post
